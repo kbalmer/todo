@@ -1,12 +1,9 @@
-# tictactoe
+# classic to-do list
 
-* This repo is my first venture into the world of JavaScript with a few uses of jQuery along the way.
+* The aim of this project was to gain more experience in JavaScript, jQuery, HTML and CSS.
 
-* This version of tic-tact-toe features a reset button, the board is disabled upon a draw/deadlock and the winner is 
-announced when a winner... wins.
+* During the process of developing the new table of tasks, ajax requests were implemented as well as 
+HTML templating.  
 
-* The aim of this project was to learn how JavaScript, HTML and CSS interact while also learning the syntax, 
-restrictions and possibilities of JavaScript.
-
-* The end goal of learning JavaScript is to eventually dip my toes into TypeScript. I thought I'd learn JavaScript as
-a stepping stone towards that.
+* I've found these are useful and powerful tools for generating HTML on the webpage while maintaining a 
+smoother user experience.  

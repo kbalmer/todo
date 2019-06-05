@@ -1,0 +1,62 @@
+body {
+    background-image: linear-gradient(to right, linen, white);
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+.main_title {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: black;
+    font-family: 'Helvetica';
+    font-style: italic;
+}
+
+.form_container {
+    border: 1px solid black;
+    width: 50%;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+input {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+label {
+    display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: 18px;
+    font-family: 'Helvetica';
+}
+
+.submit_button {
+    width: 10%;
+    margin: 0 auto;
+    display: block;
+}
+
+.todo_container {
+    border: 1px solid black;
+    width: 50%;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+table {
+    font-family: 'Helvetica';
+    width: 100%;
+    margin: 10px;
+}
+
+td {
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
